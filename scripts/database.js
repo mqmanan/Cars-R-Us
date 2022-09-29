@@ -12,10 +12,10 @@ const database = {
         { id: 4, name: "Black Leather", price: 200 }
     ],
     techs: [
-        { id: 1, name: "Basic Package -- basic sound system", price: 200 },
-        { id: 2, name: "Navigation Pacakage -- integrated navigation controls", price: 500 },
-        { id: 3, name: "Visibility Package -- side & rear cameras", price: 500 },
-        { id: 4, name: "Ultra Pacakge -- navigation & visibility pacakges", price: 1000 }
+        { id: 1, name: "Basic Package", price: 200 },
+        { id: 2, name: "Navigation Pacakage", price: 500 },
+        { id: 3, name: "Visibility Package", price: 500 },
+        { id: 4, name: "Ultra Pacakge", price: 1000 }
     ],
     wheels: [
         { id: 1, name: "17-inch Pair Radial", price: 150 },

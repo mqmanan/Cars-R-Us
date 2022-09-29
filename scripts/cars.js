@@ -10,22 +10,18 @@ export const CarsAreUs = () => {
 
         <article class="choices">
             <section class="choices__paints options">
-                <h2>Paint</h2>
                 ${Paints()}
             </section>
 
             <section class="choices__interiors options">
-                <h2>Interior</h2>
                 ${Interiors()}
             </section>
 
             <section class="choices__techs options">
-                <h2>Technologies</h2>
                 ${Techs()}
             </section>
 
             <section class="choices__wheels options">
-                <h2>Rims</h2>
                 ${Wheels()}
             </section>
         </article>
