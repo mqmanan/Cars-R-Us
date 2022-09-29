@@ -1,27 +1,27 @@
 const database = {
     paints: [
-        { id: 1, name: "Silver", price: 200 },
-        { id: 2, name: "Midnight Blue", price: 250 },
-        { id: 3, name: "Firebrick Red", price: 300 },
-        { id: 4, name: "Spring Green", price: 350 }
+        { id: 1, name: "1. Silver", price: 200 },
+        { id: 2, name: "2. Midnight Blue", price: 250 },
+        { id: 3, name: "3. Firebrick Red", price: 300 },
+        { id: 4, name: "4. Spring Green", price: 350 }
     ],
     interiors: [
-        { id: 1, name: "Beige Fabric", price: 100 },
-        { id: 2, name: "Charcoal Fabric", price: 100 },
-        { id: 3, name: "White Leather", price: 200 },
-        { id: 4, name: "Black Leather", price: 200 }
+        { id: 1, name: "1. Beige Fabric", price: 100 },
+        { id: 2, name: "2. Charcoal Fabric", price: 100 },
+        { id: 3, name: "3. White Leather", price: 200 },
+        { id: 4, name: "4. Black Leather", price: 200 }
     ],
     techs: [
-        { id: 1, name: "Basic Package", price: 200 },
-        { id: 2, name: "Navigation Pacakage", price: 500 },
-        { id: 3, name: "Visibility Package", price: 500 },
-        { id: 4, name: "Ultra Pacakge", price: 1000 }
+        { id: 1, name: "1. Basic Package", price: 200 },
+        { id: 2, name: "2. Navigation Pacakage", price: 500 },
+        { id: 3, name: "3. Visibility Package", price: 500 },
+        { id: 4, name: "4. Ultra Pacakge", price: 1000 }
     ],
     wheels: [
-        { id: 1, name: "17-inch Pair Radial", price: 150 },
-        { id: 2, name: "17-inch Pair Radial Black", price: 150 },
-        { id: 3, name: "18-inch Pair Spoke Silver", price: 220 },
-        { id: 4, name: "18-inch Pair Spoke Black", price: 220 }
+        { id: 1, name: "1. 17-inch Pair Radial", price: 150 },
+        { id: 2, name: "2. 17-inch Pair Radial Black", price: 150 },
+        { id: 3, name: "3. 18-inch Pair Spoke Silver", price: 220 },
+        { id: 4, name: "4. 18-inch Pair Spoke Black", price: 220 }
     ],
     customOrders: [
         {

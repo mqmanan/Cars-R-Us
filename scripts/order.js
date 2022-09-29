@@ -65,6 +65,6 @@ const buildOrderListItem = (order) => {
             currency: "USD"
         })
        
-        return `<li>► Order #${order.id} cost <i>${costString}</i>.</li>`
+        return `<li>► Order #${order.id} (Options: ${order.paintId}, ${order.interiorId}, ${order.techId}, ${order.wheelId}) cost <i>${costString}</i>.</li>`
     
     }
